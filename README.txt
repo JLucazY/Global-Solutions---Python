@@ -1,26 +1,22 @@
-# 🍎Sistema de Gerenciamento de Estoque de Alimentos
+🍎Sistema de Gerenciamento de Estoque de Alimentos
 O Sistema de Gerenciamento de Estoque de Alimentos é um programa em Python desenvolvido para facilitar o controle de um estoque de alimentos. Ele oferece diversas funcionalidades que permitem adicionar novos alimentos, exibir o estoque atual e vender alimentos.
 
-<br>
 
 ---
 
-<br>
 
-## ⚙️ Funcionalidades:
+⚙️ Funcionalidades:
 O programa oferece as seguintes opções:
 
-- <strong>Entrada de produtos:</strong> permite adicionar um novo alimento ao estoque. Solicita o nome do alimento, a quantidade em quilogramas e a data de validade.
-- <strong>Exibir estoque:</strong> mostra todos os alimentos atualmente presentes no estoque, juntamente com suas quantidades e datas de validade.
-- <strong>Vender estoque:</strong> permite selecionar um alimento do estoque e vender uma quantidade específica dele. Verifica se a quantidade solicitada está disponível no estoque e atualiza a quantidade restante após a venda.
+- Exibir estoque: mostra todos os alimentos atualmente presentes no estoque, juntamente com suas quantidades e datas de validade.
+- Vender estoque: permite selecionar um alimento do estoque e vender uma quantidade específica dele. Verifica se a quantidade solicitada está disponível no estoque e atualiza a quantidade restante após a venda.
+- Entrada de produtos: permite adicionar um novo alimento ao estoque. Solicita o nome do alimento, a quantidade em quilogramas e a data de validade.
 
-<br>
 
 ---
 
-<br>
 
-## 🖥️ Utilização:
+🖥️ Utilização:
 - Clone o repositório ou copie o código para um arquivo local com a extensão .py.
 - Certifique-se de que você possui o Python instalado em seu sistema.
 - Execute o arquivo Python.
@@ -28,13 +24,11 @@ O programa oferece as seguintes opções:
 - Siga as instruções exibidas na tela para adicionar alimentos, exibir o estoque ou vender alimentos.
 - Para encerrar o programa, escolha a opção "Sair" no menu.
 
-<br>
 
 ---
 
-<br>
 
-## 📋 Instruções:
+📋 Instruções:
 1. Verifique se o Python 3.x está instalado em seu sistema.
 
 2. Abra um terminal ou prompt de comando e navegue até o diretório raiz do projeto.
@@ -51,24 +45,20 @@ O programa oferece as seguintes opções:
 
 8. Ao selecionar a opção "Encerrar o programa", o programa será finalizado.
 
-<br>
 
 ---
 
-<br>
 
-## ❗Observações:
+❗Observações:
 Certifique-se de fornecer informações válidas ao adicionar alimentos, como um número válido para a quantidade e uma data de validade no formato "DD/MM/AAAA".
 O programa foi escrito para Python 3 e pode não ser compatível com versões anteriores.
 Divirta-se usando o programa de controle de estoque de alimentos!
 
-<br>
 
 ---
 
-<br>
 
-### Integrantes:
+🧍‍♂️ Integrantes:
 - Emanuelle Soares - rm97973 
 - Gabriel Teixeira Machado - rm551570 
 - João Lucas Yudi - rm98458 
